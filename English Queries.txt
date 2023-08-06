@@ -1,0 +1,30 @@
+Query 1.)
+Calculate the average of the ratings (rounded to 4 decimal places) for the movies
+by genre for each year from 2017 to 2021 for each genre, Adventure, and Thriller.
+Should have 10 rows of output, for 5 years and 2 genres.
+YEAR GENRES YEARLY_AVG
+---------- --------- ----------
+2017 Adventure ???
+2017 Thriller ???
+. . .
+. . .
+. . .
+2021 Adventure ???
+2021 Thriller ???
+10 rows selected.
+
+Query 2.)
+For each year from 2004 to 2018 and for the Drama and Romance genre
+combination, find out the lead actor/actress names with the highest average
+rating. In case, there are multiple actors/actresses with the same highest average
+rating, you need to display all of them.
+Should have at least 1 row for each year.
+YEAR GENRE HIGHEST_AVG_ACTORRATING MOST_POPULAR_ACTOR
+---------- ------------- ----------------------- -------------------
+2004 Drama,Romance ??? ???
+2005 Drama,Romance ??? ???
+. . . .
+. . . .
+. . . .
+2018 Drama,Romance ??? ???
+??? rows selected.
