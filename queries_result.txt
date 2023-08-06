@@ -1,0 +1,67 @@
+Query 1:
+
+Output:
+
+YEAR	   GENRES    YEARLY_AVG
+---------- --------- ----------
+2017	   Adventure	 5.8838
+2017	   Thriller	  5.363
+2018	   Adventure	 5.8971
+2018	   Thriller	 5.4084
+2019	   Adventure	 5.9197
+2019	   Thriller	 5.3759
+2020	   Adventure	 5.8644
+2020	   Thriller	 5.2298
+2021	   Adventure	 6.0423
+2021	   Thriller	 5.6148
+
+10 rows selected.
+
+
+Query 2:
+
+Output:
+
+YEAR	   GENRES	 HIGHEST_AVG_ACTORRATING MOST_POPULAR_ACTOR
+---------- ------------- ----------------------- ------------------
+2004	   Drama,Romance		     8.3 Jim Carrey
+2004	   Drama,Romance		     8.3 Kate Winslet
+2005	   Drama,Romance		       8 Renee Zellweger
+2005	   Drama,Romance		       8 Russell Crowe
+2006	   Drama,Romance		     7.5 Jennifer Connelly
+2006	   Drama,Romance		     7.5 Kate Winslet
+2007	   Drama,Romance		     7.8 Glen Hansard
+2007	   Drama,Romance		     7.8 Marketa Irglova
+2007	   Drama,Romance		     7.8 James McAvoy
+2007	   Drama,Romance		     7.8 Keira Knightley
+2008	   Drama,Romance		       8 Dev Patel
+2008	   Drama,Romance		       8 Freida Pinto
+2009	   Drama,Romance		     8.2 Ricardo Darin
+2009	   Drama,Romance		     8.2 Soledad Villamil
+2010	   Drama,Romance		     7.9 Kajol
+2010	   Drama,Romance		     7.9 Shah Rukh Khan
+2011	   Drama,Romance		     7.9 Berenice Bejo
+2011	   Drama,Romance		     7.9 Jean Dujardin
+2012	   Drama,Romance		     8.1 Priyanka Chopra Jo
+						 nas
+
+2012	   Drama,Romance		     8.1 Ranbir Kapoor
+2013	   Drama,Romance		       8 Amy Adams
+2013	   Drama,Romance		       8 Joaquin Phoenix
+2014	   Drama,Romance		     7.7 Eddie Redmayne
+2014	   Drama,Romance		     7.7 Felicity Jones
+2014	   Drama,Romance		     7.7 Ansel Elgort
+2014	   Drama,Romance		     7.7 Shailene Woodley
+2015	   Drama,Romance		     7.5 Emory Cohen
+2015	   Drama,Romance		     7.5 Saoirse Ronan
+2016	   Drama,Romance		     8.1 Ha Jung-woo
+2016	   Drama,Romance		     8.1 Kim Min-hee
+2017	   Drama,Romance		     7.8 Armie Hammer
+2017	   Drama,Romance		     7.8 Timothee Chalamet
+2018	   Drama,Romance		     7.6 Bradley Cooper
+2018	   Drama,Romance		     7.6 Lady Gaga
+
+34 rows selected.
+
+
+ 
